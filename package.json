@@ -1,12 +1,12 @@
 {
-    "name": "Phoenix-MD",
+    "name": "Riddle_MD",
     "version": "1.0.0",
     "description": "A Simple But Advanced WhatsApp Bot!",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
         "start": "pm2 start index.js --attach --name Phoenix-MD",
-        "stop": "pm2 stop Phoenix-MD"
+        "stop": "pm2 stop Riddle_MD"
     },
     "engines": {
         "node": "20.x"
@@ -28,7 +28,7 @@
         "baileys",
         "pm2",
         "terumx-bot",
-        "phoenix-md",
+        "riddle_md",
         "AbhishekSuresh2",
         "commonjs"
     ],
